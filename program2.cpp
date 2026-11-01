@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main(){
-std::ciut<<"Hello,Git!";
+std::cout<<"Hello,Git!";
 return 0;
 }
